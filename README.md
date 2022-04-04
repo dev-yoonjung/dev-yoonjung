@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E2C8CC&height=300&section=header&text=YOONJUNG&fontColor=373737&fontSize=90&fontAlign=62&fontAlignY=32&desc=For%20me%20who%20is%20better%20than%20yesterday&descSize=25&descAlign=67&descAlignY=50)
 
 
-### 👧 vvithnne
+### 👧 vvithnne 👧
 <a href="https://vvithnne.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a>
 
-### 💻 Tech Stack 
+### 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 
-### 🔎 Github status
+### 🔎 Github status 🔎
 
 ![dev-yoonjung overview](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/overview.svg)
 ![dev-yoonjung languages](https://github.com/dev-yoonjung/github-stats-transparent/blob/output/generated/languages.svg)
