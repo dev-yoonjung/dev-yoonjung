@@ -5,6 +5,7 @@
 
 ### 👧 vvithnne 👧
 <a href="https://vvithnne.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a>
+<a href="https://gist.github.com/dev-yoonjung"><img src="https://img.shields.io/badge/Gist-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
 ### 💻 Tech Stack 💻
 
